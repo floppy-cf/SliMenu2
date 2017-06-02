@@ -13,10 +13,10 @@ include("menu/video.lua")
 include("menu/demo_to_video.lua")
 include("menu/motionsensor.lua")
 
-include("slimenu/map_icon.lua")
-include("slimenu/map_options.lua")
-include("slimenu/maplist_iconview.lua")
-include("slimenu/startgame.lua")
+include("slimenu2/map_icon.lua")
+include("slimenu2/map_options.lua")
+include("slimenu2/maplist_iconview.lua")
+include("slimenu2/startgame.lua")
 
 --helpers
 include("slimenu2/luadata.lua")
