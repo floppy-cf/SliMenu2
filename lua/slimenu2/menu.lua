@@ -4,6 +4,7 @@ include("menu/mount/mount.lua") -- workshop
 include("slimenu2/backgrounds.lua")
 
 include("menu/getmaps.lua")
+include("menu/openurl.lua")
 include("slimenu2/sv_loadingurl.lua")
 include("slimenu2/mainmenu.lua")
 include("slimenu2/newgame.lua")
